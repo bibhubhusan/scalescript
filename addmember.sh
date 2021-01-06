@@ -1,6 +1,6 @@
 #!/bin/sh
 
-my_lb_name=`echo $1`
+my_lb_name=`echo Scaletestlb`
 
 if [ -n "$my_lb_name" ]
         then
